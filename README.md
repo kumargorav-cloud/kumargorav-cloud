@@ -7,6 +7,7 @@ I'm **Gorav Kumar**, a passionate developer and technology enthusiast focused on
 Currently exploring and building solutions in:
 - **Network Automation & Compliance** - Designing scalable automation frameworks
 - **Python Development** - Crafting clean, efficient code
+- **Cloud Computing** - Cloud architecture, Scalable architecture
 - **Infrastructure as Code** - Automating complex network environments
 
 ## 💡 Core Interests
