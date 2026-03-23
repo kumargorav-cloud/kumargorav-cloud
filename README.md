@@ -48,14 +48,6 @@ A Python-based project dedicated to automating network compliance workflows and 
 
 ---
 
-## 🤝 Open to
-
-- Collaborations on network automation projects
-- Contributing to open-source initiatives
-- Discussing infrastructure and DevOps practices
-
----
-
 > "Automation is the art of doing more with less." 
 
 ---
