@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
-I'm **Gorav Kumar**, a passionate developer and technology enthusiast focused on **network automation** and **infrastructure compliance**. 
+I'm **Gorav Kumar**, a passionate developer **CCNA** trained and hands-on **Network Engineer** experience in configuring network devices like routers, switches and firewalls and technology enthusiast focused on **network automation** and **infrastructure compliance**. 
 
 ## 🚀 What I'm Working On
 
